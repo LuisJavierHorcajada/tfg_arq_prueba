@@ -2,12 +2,8 @@
 
 ## Instalación y Despliegue de herramientas
 
-Contiene la instalación y despliegue de las herramientas mediante el uso de Docker, estas se instalan manualmente en cada sistema.
-
-## Dashboards
-
-Contiene algunos de los dahsboards pertinentes a la monitorización realizados en este TFG.
+Contiene la instalación y despliegue de todas las herramientas de manera conjunta y mediante Docker. Esta orientada a la instalación en un único sistema.
 
 ## Configuración de Telegraf
 
-Contiene una configuración de telegraf que permite realizar una monitorización completa de un sistema informático.
+Contiene una configuración de telegraf que permite realizar una monitorización de la CPU de cualquier sistema.
